@@ -1,0 +1,5 @@
+; $Id$
+name = Login History
+description = Keeps track of user logins.
+package = James Audubon Development
+core = 6.x
